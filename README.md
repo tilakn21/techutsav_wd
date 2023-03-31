@@ -15,3 +15,17 @@ The whole pattern of the code will look something like the below code example.
 
 **Example**: This example illustrates the HTML basic structure.
 
+<html>
+
+<head>
+	<!-- Information about the page -->
+	<!--This is the comment tag-->
+	
+	<title>TECHOTSAV</title>
+</head>
+
+<body>
+	<!--Contents of the webpage-->
+</body>
+
+</html>
