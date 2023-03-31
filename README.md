@@ -15,7 +15,16 @@ The whole pattern of the code will look something like the below code example.
 
 **Example**: This example illustrates the HTML basic structure.
 
-<html>
+<html>his code won’t display anything. It just shows the basic pattern of how to write the HTML code and will name the title of the page as GeeksforGeeks. <! – – comment here – – > is the comment tag in HTML and it doesn’t read the line present inside this tag.
+
+HTML Headings: These tags help us to give headings to the content of a webpage. These tags are mainly written inside the body tag. HTML provides us with six heading tags from <h1> to <h6>. Every tag displays the heading in a different style and font size.  
+
+Most HTML heading tag that we use :- 
+
+Heading 1 
+Heading 2
+Heading 3 
+Example: This example illustrates the use of 6 heading tags from <h1> to <h6> in HTML.
 
 <head>
 	<!-- Information about the page -->
