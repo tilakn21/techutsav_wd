@@ -195,13 +195,13 @@ HTML Page Structure
     <html>
 
       <head>
-        <title>Page Title</title>
+        <title>Techotsav'23 </title>
       </head>
 
       <body>
 
-        <h1>My First Heading</h1>
-        <p>My first paragraph.</p>
+        <h1>Welcome to techotsav!</h1>
+        <p>Start with web development program.</p>
 
       </body>
 
